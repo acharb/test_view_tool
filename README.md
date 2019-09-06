@@ -1,6 +1,6 @@
 # TestViewTool
 
-Ahhhhh tutorial gem file
+> Ahhhhh tutorial gem file
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+> USAGE INSTRUCTIONS
 
 ## Development
 
